@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="backend/NKeeper.Plugins.ImportMRemoteNG.csproj" />
+  <Project Path="tests/NKeeper.Plugins.ImportMRemoteNG.Tests.csproj" />
+</Solution>
